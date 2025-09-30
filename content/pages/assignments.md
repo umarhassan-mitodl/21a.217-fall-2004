@@ -2,6 +2,8 @@
 content_type: page
 description: 'The Assignments section talks about two assignments for the course:
   one short paper and one longer paper.'
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
