@@ -65,9 +65,9 @@ Ferguson, Brian. "A Savage Encounter: Western Contact and the Yanomami War Compl
 
 *Film:*
 
-Gardner, Robert. [*Dead Birds*](http://imdb.com/title/tt0059091/)*,* 1965.
+Gardner, Robert. {{% resource_link "f811d0a8-d0bb-4c55-8448-c6b4f64d6bc6" "*Dead Birds*" %}}*,* 1965.
 
-Asch, Timothy and Napoleon Chagnon. [*The Ax Fight*](http://imdb.com/title/tt0321347/)*, 1975*.
+Asch, Timothy and Napoleon Chagnon. {{% resource_link "ec5b18dd-815d-4d25-ad77-0a70ffd41651" "*The Ax Fight*" %}}*, 1975*.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
@@ -83,9 +83,9 @@ Ellis, John. "Battle: The Reality." In *Eye-Deep in Hell: Trench Warfare in Worl
 
 *Film:*
 
-Branagh, Kenneth. [*Henry V*](http://imdb.com/title/tt0097499/), 1989, excerpt.
+Branagh, Kenneth. {{% resource_link "938f8e83-5baa-42d7-a736-6cc1bec4ed47" "*Henry V*" %}}, 1989, excerpt.
 
-Weir, Peter. [*Gallipoli*](http://imdb.com/title/tt0082432/), 1981, excerpt.
+Weir, Peter. {{% resource_link "db98a4d0-cb41-430f-9ca4-b10fc5a126a5" "*Gallipoli*" %}}, 1981, excerpt.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
@@ -101,7 +101,7 @@ Hassan, Nasra. "An Arsenal of Believers." *New Yorker,* November 19, 2001, 36-41
 
 *Film:*
 
-[*The Triumph of Evil*](http://www.pbs.org/wgbh/pages/frontline/shows/evil/), PBS *Frontline* documentary.
+{{% resource_link "ce608793-fd9c-4794-94fd-06094d65676d" "*The Triumph of Evil*" %}}, PBS *Frontline* documentary.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6-8
@@ -115,18 +115,18 @@ Gourevitch, Philip. *We Wish to Inform You that Tomorrow We Will be Killed With 
 Darfur
 {{< tdclose >}}{{< tdopen >}}
 
-Power, Samantha. "\[Dying in Darfur\]([http://www.newyorker.com/archive/2004/08/30/040830fa_fact1](http://www.newyorker.com/archive/2004/08/30/040830fa_fact1)      
+Power, Samantha. "\[Dying in Darfur\]({{% resource_link "d4bf4dbc-4639-4327-bbaa-dca598c2d12f" "http://www.newyorker.com/archive/2004/08/30/040830fa_fact1" %}}      
 )." *The New Yorker,* August 30, 2004, 58.
 
 Leaning, Jennifer. "Diagnosing Genocide - The Case of Darfur." *New England Journal of Medicine* 351, no. 8 (August 19, 2004): 735-738.
 
-Ryle, John. "[Disaster in Darfur](http://www.nybooks.com/articles/2004/08/12/disaster-in-darfur/)." *New York Review of Books* 51, no. 13 (August 12, 2004).
+Ryle, John. "{{% resource_link "0cc688bd-d419-4dd4-9076-1045430cce5e" "Disaster in Darfur" %}}." *New York Review of Books* 51, no. 13 (August 12, 2004).
 
-The following link lists all articles by [Nicholas D. Kristof](http://www.nytimes.com/top/opinion/editorialsandoped/oped/columnists/nicholasdkristof/), an Op-Ed columnist for the The New York Times. Search for "Darfur" and browse his articles.
+The following link lists all articles by {{% resource_link "f71d8bbc-104b-41d0-aab3-9278c2194dcd" "Nicholas D. Kristof" %}}, an Op-Ed columnist for the The New York Times. Search for "Darfur" and browse his articles.
 
-[Darfur Information Center](http://www.darfurinfo.org/dic.html)
+{{% resource_link "ada78c99-20cc-4e89-bd9f-5ecfdbe0d343" "Darfur Information Center" %}}
 
-[Crisis in Darfur](http://hrw.org/doc?t=africa&c=darfur)
+{{% resource_link "3957580e-2ff8-4291-9bd5-6683bc60a516" "Crisis in Darfur" %}}
 
 Moeller, Susan. "Compassion Fatigue." *Media Studies Journal* (Summer 2001): 108-112.
 
@@ -142,7 +142,7 @@ Krog, Antjie. *Country of My Skull*. Johannesburg, South Africa: Random House, 1
 
 *Film:*
 
-Moyers, Bill. [*Facing the Truth With Bill Moyers*](http://www.pbs.org/pov/tvraceinitiative/facingthetruth/), 1999, excerpts.
+Moyers, Bill. {{% resource_link "065dc6fb-e883-42c9-bb82-2a8cecfd33fc" "*Facing the Truth With Bill Moyers*" %}}, 1999, excerpts.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Part II: America at War**
@@ -159,7 +159,7 @@ Appy, Chris. *Working Class War: American Combat Soldiers and Vietnam*. Chapel H
 
 *Film:*
 
-Morris, Errol. [*The Fog of War: Eleven Lessons from the Life of Robert S. McNamara*](http://imdb.com/title/tt0317910/), 2003, excerpts.
+Morris, Errol. {{% resource_link "8feba252-f26c-4ffc-ae7c-354a37256a41" "*The Fog of War: Eleven Lessons from the Life of Robert S. McNamara*" %}}, 2003, excerpts.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
@@ -186,7 +186,7 @@ Swofford, Anthony. *Jarhead: A Marine's Chronicle of the Gulf War and Other Batt
 
 *Film:*
 
-Kotcheff, Ted. [*Rambo: First Blood*](http://imdb.com/title/tt0083944/), 1982, excerpts.
+Kotcheff, Ted. {{% resource_link "5ee3eba5-4611-4819-8156-ee83e901e354" "*Rambo: First Blood*" %}}, 1982, excerpts.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15
@@ -218,7 +218,7 @@ Gusterson, Hugh. "The McNamara Complex." *Anthropological Quarterly* (Winter 200
 
 *Film:*
 
-Greenwald, Robert. [*Outfoxed: Rupert Murdoch's War on Journalism*](http://imdb.com/title/tt0418038/), 2004.
+Greenwald, Robert. {{% resource_link "9ff5f989-8aa5-4923-afe7-782b2751f838" "*Outfoxed: Rupert Murdoch's War on Journalism*" %}}, 2004.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 17
@@ -274,7 +274,7 @@ Rampton, Sheldon, and John Stauber. *Weapons of Mass Deception: The Uses of Prop
 
 *Film:*
 
-Achbar, Mark and Peter Wintonick. [*Manufacturing Consent: Noam Chomsky and the Media*](http://imdb.com/title/tt0104810/), 1992, excerpts.
+Achbar, Mark and Peter Wintonick. {{% resource_link "41287b3c-0f58-4092-ac3f-1495cb01fec8" "*Manufacturing Consent: Noam Chomsky and the Media*" %}}, 1992, excerpts.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20
@@ -310,7 +310,7 @@ Corbett, Sara. "Coming Home: The Permanent Scars of Iraq." *New York Times Magaz
 
 *Film:*
 
-Olds, Ian, and Garrett Scott. [*Occupation: Dreamland*](http://imdb.com/title/tt0452659/), 2005.
+Olds, Ian, and Garrett Scott. {{% resource_link "2811a393-7db6-43d9-aae2-a9ecff86ac00" "*Occupation: Dreamland*" %}}, 2005.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22
@@ -336,7 +336,7 @@ Zizek, Zlavoj. "What Rumsfeld Doesn't Know That He Knows About Abu Ghraib." *In*
 
 Moore, Patrick. "Weapons of Mass Homophobia." *The Advocate,* June 8, 2004.
 
-Zimbardo, Philip. "[Stanford Prison Experiment](http://www.prisonexp.org/)." View slideshow.
+Zimbardo, Philip. "{{% resource_link "2fb50e95-5f87-4548-b78b-45066deda2cf" "Stanford Prison Experiment" %}}." View slideshow.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 23
