@@ -6,8 +6,6 @@ description: This resource talks about primitive warfare including Feud, Rules, 
 file: /courses/21a-217-anthropology-of-war-and-peace-fall-2004/e6bf7de8de44dcb793b6dbc48f134758_4_primitive_war.pdf
 file_size: 27108
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

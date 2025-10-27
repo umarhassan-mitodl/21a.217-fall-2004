@@ -5,8 +5,6 @@ description: This resource discusses about is war natural including with the vie
 file: /courses/21a-217-anthropology-of-war-and-peace-fall-2004/c8213f6ffddb3bfdd615408cf94d2b77_2_is_war_natural.pdf
 file_size: 101038
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
